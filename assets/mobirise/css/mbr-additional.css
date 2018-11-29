@@ -1990,6 +1990,43 @@ body {
 .cid-r9R8mDb2BO .mbr-overlay ~ .container-slide {
   z-index: auto;
 }
+.cid-raPmumeTbc {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #cccccc;
+}
+.cid-raPmumeTbc h3 {
+  font-weight: 300;
+}
+.cid-raPmumeTbc .card-img {
+  width: initial;
+}
+.cid-raPmumeTbc .card-img .mbr-iconfont {
+  font-size: 48px;
+  padding-right: 1rem;
+}
+.cid-raPmumeTbc .media-container-row {
+  word-wrap: break-word;
+  padding-bottom: 2rem;
+  height: 100%;
+}
+.cid-raPmumeTbc .media {
+  margin: initial;
+  align-items: center;
+}
+.cid-raPmumeTbc .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-raPmumeTbc .mbr-text {
+  color: #767676;
+}
+.cid-raPmumeTbc .media-container-column {
+  display: -webkit-flex;
+  flex-direction: column;
+  -webkit-flex-direction: column;
+  flex-direction: column-reverse;
+  -webkit-flex-direction: column-reverse;
+}
 .cid-r3VuCqqHFK {
   padding-top: 90px;
   padding-bottom: 90px;
